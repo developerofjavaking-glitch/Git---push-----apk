@@ -1,0 +1,6 @@
+{
+  "name": "GitPusher",
+  "description": "Manage GitHub repositories and push local folders directly to GitHub from your phone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
